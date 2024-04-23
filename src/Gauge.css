@@ -1,0 +1,12 @@
+.gauge-container {
+  display: inline-block;
+  width: 200px;
+  height: 200px; 
+  padding-right: 30px;
+  text-align: center;
+  transition: transform 3s ease-in-out;
+}
+
+.gauge-container:hover {
+  transform: scale(1.1);
+}

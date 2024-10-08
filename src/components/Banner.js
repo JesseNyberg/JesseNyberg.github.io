@@ -47,9 +47,8 @@ export const Banner = () => {
                       </span>
                     </span>
                   </h1>
-                  <p>&#8226; Junior Software Developer @ Tietoevry</p>
-				  <p>&#8226; Part-time teacher (Programming 1, 2 courses) @ University Of Tampere</p>
-				  <p>&#8226; Computer science student @ University Of Tampere</p>
+                  <p>&#8226; Software Developer @ Tietoevry</p>
+		  <p>&#8226; Computer science student @ University Of Tampere</p>
                 </div>
               }
             </TrackVisibility>
